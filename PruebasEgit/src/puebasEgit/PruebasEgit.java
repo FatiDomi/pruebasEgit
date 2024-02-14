@@ -9,7 +9,7 @@ public class PruebasEgit {
 		System.out.println("Primer commit rama1");
 
 		System.out.println("Cambio master para fusion");
-
+		System.out.println("Cambio desde remoto");
 	}
 
 }
